@@ -5,7 +5,7 @@
     "version": "2.1.0",
     "title": "Shopping Cart API"
   },
-  "host": "prod.bigriverbooks.com",
+  "host": "prod.toddsrarebooks.com",
   "basePath": "/ShoppingCartAPI/v2",
   "tags": [
     {
